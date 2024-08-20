@@ -21,31 +21,31 @@ Este repositorio contiene las prácticas y tareas realizadas en la asignatura **
 
 ### Clonación del Repositorio
 
-\`\`\`bash
+```bash
 git clone https://github.com/M24Manuel/Criptografia-y-Seguridad-25-1.git
 cd Criptografia-y-Seguridad-25-1
-\`\`\`
+```
 
 ### Ejecución de las Prácticas
 
 1. Navega a la carpeta de la práctica que deseas ejecutar:
-   \`\`\`bash
+   ```bash
    cd Practicas/NombreDeLaPractica
-   \`\`\`
+   ```
 2. Sigue las instrucciones específicas dentro de la carpeta para ejecutar el código.
 
 ## 🔧 Dependencias
 
 - **Python 3.x**
   - Asegúrate de tener instalados los paquetes necesarios:
-    \`\`\`bash
+    ```bash
     pip install -r requirements.txt
-    \`\`\`
+    ```
 
 
 ## 📄 Licencia
 
-Este repositorio está bajo la Licencia [MIT/Apache/otra licencia]. Puedes ver más detalles en el archivo \`LICENSE\`.
+Este repositorio está bajo la Licencia [MIT](./LICENSE). Puedes ver más detalles en el archivo \`LICENSE\`.
 
 ## ✨ Contribuciones
 
